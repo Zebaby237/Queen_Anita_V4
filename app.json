@@ -1,13 +1,13 @@
 {
   "name": "Queen Anita V4",
-  "description": "A WhatsApp Bot Created By David Cyril",
+  "description": "A WhatsApp Bot Created By Black Grey Leonidas",
   "logo": "https://telegra.ph/file/f6230a0cb5b118fa01561.jpg",
   "keywords": ["bot", "WhatsApp", "JavaScript"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
     "SESSION_ID": {
-      "description": "Put your SESSION_ID here.",
+      "description": "{"noiseKey":{"private":{"type":"Buffer","data":"GNFeS/ig/jKH62DCUWuttSuKJ3pHus/JaIKt/D0dHW4="},"public":{"type":"Buffer","data":"P7tM1+EmpS1LwemqzzK2g3087SZeogABhKkr8v49YEc="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"UC40dMEopRzojMFlvgrmaKD+yza7nKFlrc0gRDcOmUw="},"public":{"type":"Buffer","data":"rZgF/daoSQfqtb5C+whtjjb5ckC/3oagcrF0qC5S1nM="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"QFXcT6ijQ1QIf9Ad+aRajOovkIdkGd4jXvN+sIHYvWw="},"public":{"type":"Buffer","data":"SyXCnvtUsP79lShWtMIGvhvdBdcQmwGsq9JtQn4MOUA="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"KF2oFwU3/KMGGgzu82rD7MJyV95j5OZCjNXbXbCO51g="},"public":{"type":"Buffer","data":"sfTTlUxAM3p4daM/nd8OlS/GljX9Js+NOjwK7KANHA8="}},"signature":{"type":"Buffer","data":"z4FqEReeUcRJJMwuXD1lC3AXJORaWWhLj0ScdAOSxbBPBqptjuoWF0v5ePM/3CCFThAOaZGvigfJ4emT+9/7iQ=="},"keyId":1},"registrationId":1,"advSecretKey":"rA2kzM9alshpf75Ms5cj0Sw+85ngFqW5RW4X1KGJK/o=","processedHistoryMessages":[{"key":{"remoteJid":"237680333605@s.whatsapp.net","fromMe":true,"id":"A0FFDED0E2A34C78511D680F8DB940E9"},"messageTimestamp":1738140577}],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"deviceId":"6SrEcQW7ToiDqZkhXKEgWw","phoneId":"d9530363-2eb2-43ae-862b-880c70316421","identityId":{"type":"Buffer","data":"XotqzISmzAIQ169uT8ayVLjicho="},"registered":true,"backupToken":{"type":"Buffer","data":"+m1y0C0okCOco1R0uViVXg04tOs="},"registration":{},"pairingCode":"4KQHLW9T","me":{"id":"237680333605:39@s.whatsapp.net","name":"𝚩𝐋𝚫𝐂𝐊 𝐆𝚪𝚵𝐘 𝐋𝚵𝚯𝚴𝚰𝐃𝚫𝐒"},"account":{"details":"CN6e4tAHEI3X57wGGA4gACgA","accountSignatureKey":"C2qqgt36IojugfL7ZHLFCsUHqITiem++3IlHK36mYjg=","accountSignature":"IL3+X6K0FFXp1dKOCDD/xp/kxg5Gn3PAYY9/CVPv2YKtr0puPS1qGPXLj3WJn7GgkyfhbVa/AdA9gAyAzAJOAw==","deviceSignature":"/WOGG53LATMwbfEfIPyIQhU/T7f3ZuGQ+yzCtyXNCT97ZfWZiIrok+NS14PwCtD+gjIL0t1KUgmo9KHHrvrEiQ=="},"signalIdentities":[{"identifier":{"name":"237680333605:39@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BQtqqoLd+iKI7oHy+2RyxQrFB6iE4npvvtyJRyt+pmI4"}}],"platform":"smba","lastAccountSyncTimestamp":1738140571,"myAppStateKeyId":"AAAAADVN"}",
       "value": ""
     },
     "PREFIX": {
@@ -41,15 +41,15 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\").",
-      "value": "2349066528353"
+      "value": "237680333605"
     },
     "PUBLIC": {
       "description": "Worktype of your bot. Use public or private. If it is private, then only the bot number can use it. If public, then everyone can use it.",
-      "value": "public"
+      "value": "private"
     },
     "AUTHOR": {
       "description": "Put Sticker Pack Author_Name.",
-      "value": "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋",
+      "value": "♛𝚩𝐋𝚫𝐂𝐊 𝐆𝚪𝚵𝐘 𝐋𝚵𝚯𝚴𝚰𝐃𝚫𝐒♛",
       "required": false
     }
   },
